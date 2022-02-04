@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-07-22T18:58:13.482-07:00
+  initializedAtString: 2021-07-22T18:27:23.923-07:00
+  entries:
+  - path: Assets\Scripts\Controller\Foot\FootManager.cs
+    fullPath: C:\Users\davye\Google Drive\Unity\Projects\Octopus\Assets\Scripts\Controller\Foot\FootManager.cs
+    projectPath: Assets\Scripts\Controller\Foot\FootManager.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Controller\Foot\FootStateController.cs
+    fullPath: C:\Users\davye\Google Drive\Unity\Projects\Octopus\Assets\Scripts\Controller\Foot\FootStateController.cs
+    projectPath: Assets\Scripts\Controller\Foot\FootStateController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Controller\Foot\FootTarget.cs
+    fullPath: C:\Users\davye\Google Drive\Unity\Projects\Octopus\Assets\Scripts\Controller\Foot\FootTarget.cs
+    projectPath: Assets\Scripts\Controller\Foot\FootTarget.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Controller\Foot\Movement\FootMovementStrategy.cs
+    fullPath: C:\Users\davye\Google Drive\Unity\Projects\Octopus\Assets\Scripts\Controller\Foot\Movement\FootMovementStrategy.cs
+    projectPath: Assets\Scripts\Controller\Foot\Movement\FootMovementStrategy.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Controller\Foot\Movement\WalkingMovement.cs
+    fullPath: C:\Users\davye\Google Drive\Unity\Projects\Octopus\Assets\Scripts\Controller\Foot\Movement\WalkingMovement.cs
+    projectPath: Assets\Scripts\Controller\Foot\Movement\WalkingMovement.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Controller\PlayerController.cs
+    fullPath: C:\Users\davye\Google Drive\Unity\Projects\Octopus\Assets\Scripts\Controller\PlayerController.cs
+    projectPath: Assets\Scripts\Controller\PlayerController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\MovementTransition.cs
+    fullPath: C:\Users\davye\Google Drive\Unity\Projects\Octopus\Assets\Scripts\MovementTransition.cs
+    projectPath: Assets\Scripts\MovementTransition.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
